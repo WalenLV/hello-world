@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+Hi Friends
+I am Walen,come from Beijing China!
+
+
